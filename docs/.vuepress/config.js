@@ -10,6 +10,7 @@ module.exports = {
    */
   description: description,
 
+  base: '/gpages-test/',
 
 
   /**
@@ -19,7 +20,6 @@ module.exports = {
    */
 
    themeConfig: {
-    base: '/gpages-test/',
     sidebar: [
       '/',
       '/ha',
