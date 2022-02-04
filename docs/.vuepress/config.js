@@ -19,6 +19,7 @@ module.exports = {
    */
 
    themeConfig: {
+    base: '/gpages-test/',
     sidebar: [
       '/',
       '/ha',
